@@ -1,4 +1,8 @@
 _repo: Punch-Or-the-London-Charivari-Volume-107-November-24-1894_46810
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46810-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46810#Punch-Or-the-London-Charivari-Volume-107-November-24-1894
 gutenberg_issued: '2014-09-08'
 gutenberg_type: Text
 identifiers:
